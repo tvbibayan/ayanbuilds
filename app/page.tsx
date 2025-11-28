@@ -9,7 +9,7 @@ export default function Home() {
     <div className="relative min-h-screen bg-black text-white">
       {/* Hero Section - Full screen with shader background */}
       <InfiniteHero
-        title="Building the Future"
+        title="Inventing the Horizon"
         subtitle="I am Ayan. Creative UI/UX Developer obsessed with interactive design. I combine Python and TypeScript with Three.js magic to build next-level web experiences."
         primaryButtonText="View Work"
         secondaryButtonText="Get in Touch"
