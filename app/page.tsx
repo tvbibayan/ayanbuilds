@@ -25,10 +25,10 @@ export default function Home() {
                 About Me
               </h2>
               <p className="text-lg leading-relaxed text-neutral-300">
-                Creative UI/UX Developer obsessed with interactive design. I combine{" "}
+                I architect digital experiences where technical rigor meets aesthetic precision. As a UI/UX Developer, I specialize in the convergence of design and engineering. Leveraging the structural power of{" "}
                 <span className="font-semibold text-white">Python</span> and{" "}
-                <span className="font-semibold text-white">TypeScript</span> with{" "}
-                <span className="font-semibold text-white">Three.js</span> magic.
+                <span className="font-semibold text-white">TypeScript</span>, I craft robust ecosystems, while utilizing{" "}
+                <span className="font-semibold text-white">Three.js</span> to redefine the user journey through immersive, spatial web environments. My work is dedicated to the belief that code should not just function; it should feel.
               </p>
               <div className="mt-6 flex flex-wrap gap-2">
                 {["Python", "TypeScript", "Three.js", "React", "Next.js"].map((tech) => (
